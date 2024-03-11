@@ -1023,3 +1023,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.warning-box {
+  padding: 20px;
+  background-color: #fff9c4; /* Warna background kuning */
+  border: 1px solid #ffee58; /* Warna border kuning muda */
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow ringan */
+  text-align: center;
+}
+
+.warning-box h1 {
+  margin-top: 0;
+  color: #ff8f00; /* Warna teks oranye tua */
+}
